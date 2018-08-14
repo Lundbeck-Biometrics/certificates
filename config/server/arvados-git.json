@@ -1,0 +1,19 @@
+{
+  "CN": "arvados-git.wotan",
+  "hosts": [
+      "arvados-git",
+      "arvados-git.wotan"
+  ],
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [
+    {
+      "C": "DK",
+      "L": "Copenhagen",
+      "O": "Lundbeck",
+      "OU": "Bioinformatics"
+    }
+  ]
+}

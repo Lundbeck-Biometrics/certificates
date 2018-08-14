@@ -1,0 +1,19 @@
+{
+  "CN": "arvados-keep.wotan",
+  "hosts": [
+      "arvados-keep",
+      "arvados-keep.wotan"
+  ],
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [
+    {
+      "C": "DK",
+      "L": "Copenhagen",
+      "O": "Lundbeck",
+      "OU": "Bioinformatics"
+    }
+  ]
+}

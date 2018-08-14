@@ -1,0 +1,19 @@
+{
+  "CN": "keep-proxy.wotan",
+  "hosts": [
+      "keep-proxy",
+      "keep-proxy.wotan"
+  ],
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [
+    {
+      "C": "DK",
+      "L": "Copenhagen",
+      "O": "Lundbeck",
+      "OU": "Bioinformatics"
+    }
+  ]
+}

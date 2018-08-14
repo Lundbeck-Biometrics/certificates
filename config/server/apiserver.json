@@ -1,0 +1,19 @@
+{
+  "CN": "arvados-api.wotan",
+  "hosts": [
+      "arvados-api",
+      "arvados-api.wotan"
+  ],
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [
+    {
+      "C": "DK",
+      "L": "Copenhagen",
+      "O": "Lundbeck",
+      "OU": "Bioinformatics"
+    }
+  ]
+}
